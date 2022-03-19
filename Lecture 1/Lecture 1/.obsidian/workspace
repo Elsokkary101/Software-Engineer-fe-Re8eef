@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "c9ba6668676ebd40",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d6f02ad0b98393c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lecture 1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8bbc1ffbf4f80bef",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe54386771d9b2da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ecac01f14215d8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c1aa3548dfe5a31e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9aac2a155ef14ffd",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f546ea3bbc95eb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ee4b82138705ee3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lecture 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7d6f02ad0b98393c",
+  "lastOpenFiles": [
+    "Lecture 1.md"
+  ]
+}
