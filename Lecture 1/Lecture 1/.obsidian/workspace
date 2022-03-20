@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lecture 1.md",
+            "file": "Software Architecture.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 133.99999809265137
   },
   "right": {
     "id": "9aac2a155ef14ffd",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 1.md",
+                "file": "Software Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,6 @@
   },
   "active": "7d6f02ad0b98393c",
   "lastOpenFiles": [
-    "Lecture 1.md"
+    "Software Architecture.md"
   ]
 }
